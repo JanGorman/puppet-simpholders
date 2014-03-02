@@ -1,6 +1,6 @@
 # SimPholders Puppet Module for Boxen
 
-[![Build Status](https://travis-ci.org/jangorman/puppet-simpholders.png?branch=master)](https://travis-ci.org/jangorman/puppet-simpholders)
+[![Build Status](https://travis-ci.org/JanGorman/puppet-simpholders.png?branch=master)](https://travis-ci.org/JanGorman/puppet-simpholders)
 
 Install [SimPholders](http://simpholders.com/), a small utility for fast access to your iPhone Simulator apps. Opens folder in Finder, resets library and documents, and deletes the selected app.
 
